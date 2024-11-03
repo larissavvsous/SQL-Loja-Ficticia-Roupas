@@ -12,7 +12,7 @@ Repositório destinado ao desenvolvimento do projeto: Criação e Análise de um
 
 
 <p align="center">
-  <a href="#ferramentas-utilizadas">Ferramentas utilizadas</a> •
+  <a href="#ferramenta-utilizada">Ferramenta utilizada</a> •
   <a href="#projeto">Projeto</a> 
 </p>
 
@@ -41,8 +41,10 @@ Banco de Dados é o local onde os dados são armazenados de forma organizada e e
 
 <p align="center">
   <br>
-  <a href="https://ibb.co/CvdY3fT"><img src="https://i.ibb.co/CvdY3fT/mer-diagram.png" alt="Diagrama MER" width="700" height="600" border="0" /></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MHCxzWH8/mer-loja-roupas-rosa-pgerd.png' border='0' alt='mer-loja-roupas-rosa-pgerd'/></a>
+  <br>
 </p>
+
 
 
 > **Nota**
